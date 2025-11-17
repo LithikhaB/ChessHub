@@ -1,0 +1,27 @@
+{
+  "name": "chesshub",
+  "version": "1.0.0",
+  "description": "A fast, modern online chess platform with real-time play, matchmaking, and clean, scalable architecture.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LithikhaB/ChessHub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LithikhaB/ChessHub/issues"
+  },
+  "homepage": "https://github.com/LithikhaB/ChessHub#readme",
+  "dependencies": {
+    "chess.js": "^1.4.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
